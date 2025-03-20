@@ -1,7 +1,7 @@
 # CATAN Elements Detection & Tracking
 
 ## Project Overview
-This project focuses on detecting and tracking game elements in video recordings of the board game **Catan**. The goal is to analyze different phases of the game by recognizing in-game objects, tracking their movement, and handling various video conditions. The project was carried out during Computer Vision course on AI Vth sem on PUT.
+This project focuses on detecting and tracking game elements in video recordings of the board game **Catan**. The goal is to analyze different phases of the game by recognizing in-game objects, tracking their movement, and handling various video conditions.
 
 ## In-Game Elements Tracked
 ### **Counters/Markers**
@@ -61,5 +61,5 @@ Each video captures different game phases, making the dataset useful for trainin
 4. Output insights such as detected moves, resource distributions, and game progress visualization.
 
 ---
-**Authors**: Piotr Balewski 156037, Kuba Czech 156035
+**Authors**: PBalewski, KubaCzech
 **Date**: January 2025
