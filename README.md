@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on detecting and tracking game elements in video recordings of the board game **Catan**. The goal is to analyze different phases of the game by recognizing in-game objects, tracking their movement, and handling various video conditions.
 
-## In-Game Elements Tracked
+## In-Game Elements
 ### **Counters/Markers**
 - **Robber token** (1 piece)
 - **Number tokens** (18 circular tokens, marked 2–12 excluding 7)
@@ -28,8 +28,7 @@ This project focuses on detecting and tracking game elements in video recordings
 - **Longest Road token** (1 piece)
 - **Largest Army token** (1 piece)
 
-## Event Detection & Tracking
-### **Game Events Tracked**
+## Events
 - **Rolling Dice & Resource Collection**  
   - Detect dice roll values and track resource distribution to players.
 - **Development Card Play**  
